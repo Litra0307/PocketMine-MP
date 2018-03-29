@@ -26,7 +26,6 @@ namespace pocketmine\level\particle;
 use pocketmine\block\Block;
 use pocketmine\block\BlockFactory;
 use pocketmine\math\Vector3;
-use pocketmine\network\mcpe\protocol\LevelEventPacket;
 
 class DestroyBlockParticle extends DestroyParticle{
 
